@@ -1,21 +1,12 @@
-- menu_name: "Dankeschön"
+- menu_name: "Thanks"
 
-- name: "Icons by Daniel Bruce"
-  url: "http://entypo.com/"
+- name: "Feeling-Responsive Theme by Phlow"
+  url: "https://github.com/Phlow/feeling-responsive"
   class: "network-entypo"
-  title: "Icons by Daniel Bruce"
+  title: "Feeling-Responsive Theme by Phlow"
 
-- name: "Built on Foundation"
-  url: "http://foundation.zurb.com/"
+- name: "The Wumpus Organization"
+  url: #
   class: "services-newsletter"
-  title: "Built on Foundation"
+  title: "The Wumpus Organization"
 
-- name: "Images by Unsplash"
-  url: "http://unsplash.com/"
-  class: "rss-link"
-  title: "Images by Unsplash"
-
-- name: "Using Backstretch by Scott Robbin"
-  url: "http://srobbin.com/jquery-plugins/backstretch/"
-  class: "sitemap-link"
-  title: "Using Backstretch by Scott Robbin"

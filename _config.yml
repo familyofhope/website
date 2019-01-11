@@ -8,19 +8,19 @@
 #                                                 /____/        
 #
 # Title of your website
-title: "Feeling Responsive"
+title: "Family of Hope"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "A Flexible Theme for Jekyll"
+slogan: "helping children on the streets of Kisumu, Kenya"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes."
+description: 'Our Mission is to help children who live on the streets of Kisumu, Kenya into permanent homes and a life changing relationship with Jesus Christ.'
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: breevans
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -41,7 +41,8 @@ urlimg: 'https://phlow.github.io/feeling-responsive/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+# logo: "logo.png"
+logo: "banner_logo.png"
 
 
 # Paginates all X entries
@@ -102,7 +103,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: dosborne     # Default author for pages
   -
     scope:
       path: ""
@@ -111,7 +112,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: dosborne     # Default author for posts
 
 
 

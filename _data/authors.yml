@@ -12,3 +12,17 @@ phlow: # replace this with your info
   email:
   twitter: "@phlow"
 # you can add more authors here
+
+dosborne: # replace this with your info
+  name: "Dave"
+  siterole: "copywriter, designer"
+  uri: http://familyofhope.org/
+  email:
+  twitter:
+  
+breevans: # replace this with your info
+  name: "Brennan"
+  siterole: "webmaster, developer, copywriter, designer"
+  uri:
+  email:
+  twitter:
