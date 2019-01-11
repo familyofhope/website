@@ -20,7 +20,7 @@ image:
   thumb: "banner_logo.png"
   homepage:
   caption: "Caption?"
-  url: "http://familyofhope.org/"
+  url: "https://familyofhope.org/"
 ---
 
 If you would like to receive references about Dave Osborne and Family of Hope

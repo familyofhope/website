@@ -1,7 +1,7 @@
 ---
 layout: null
 title: "Staff Information"
-source: "http://humanstxt.org/Standard.html"
+source: "https://humanstxt.org/Standard.html"
 permalink: /humans.txt
 ---
 /* TEAM */

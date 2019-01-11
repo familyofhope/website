@@ -20,7 +20,7 @@ image:
   thumb: "banner_logo.png"
   homepage:
   caption: "Caption?"
-  url: "http://familyofhope.org/"
+  url: "https://familyofhope.org/"
 ---
 
 Kisumu is a Kenyan port city on Lake Victoria.

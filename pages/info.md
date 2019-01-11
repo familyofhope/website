@@ -20,7 +20,7 @@ image:
   thumb: "banner_logo.png"
   homepage:
   caption: "Caption?"
-  url: "http://familyofhope.org/"
+  url: "https://familyofhope.org/"
 ---
 
 The following is from a letter from Dave Osborne

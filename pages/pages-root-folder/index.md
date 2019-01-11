@@ -21,8 +21,8 @@ widget3:
    url: /photos/
    text: 'Photo Gallery'
 
-#   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-#   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
+#   url: 'https://domain.de/must-be-absolut-url-like-this-one/'
+#   image: 'https://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
 #   text: 'here'
 
 #

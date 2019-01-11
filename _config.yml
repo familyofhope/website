@@ -1,4 +1,4 @@
-# ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
+# ASCII-Font › https://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
 #
 #      _____ _ __          _____      __  __  _                 
 #     / ___/(_) /____     / ___/___  / /_/ /_(_)___  ____ ______
@@ -77,7 +77,7 @@ language: "en"
 
 
 # Used › default.html front-matter and compress.html
-# Options › http://jch.penibelst.de
+# Options › https://jch.penibelst.de
 compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
@@ -168,7 +168,7 @@ msapplication_tilecolor:                "#fabb00"
 #      / ____/___ _________  / /_  ____  ____  / /__
 #     / /_  / __ `/ ___/ _ \/ __ \/ __ \/ __ \/ //_/
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
-#   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
+#   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › #   https://j.mp/fb_optimize
 
 # og_image:                         ""
 # og_locale:                        "en_EN"
@@ -204,8 +204,8 @@ msapplication_tilecolor:                "#fabb00"
 #      _____
 #     / ___/____ ___________
 #     \__ \/ __ `/ ___/ ___/
-#    ___/ / /_/ (__  |__  )     More › http://sass-lang.com/
-#   /____/\__,_/____/____/      More › http://jekyllrb.com/docs/assets/#sassscss
+#    ___/ / /_/ (__  |__  )     More › https://sass-lang.com/
+#   /____/\__,_/____/____/      More › https://jekyllrb.com/docs/assets/#sassscss
 #
 
 sass:
