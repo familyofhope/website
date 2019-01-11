@@ -24,7 +24,8 @@ author: breevans
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://phlow.github.io/feeling-responsive'
+# url: 'https://phlow.github.io/feeling-responsive'
+url: 'https://familyofhope.github.io/familyofhope'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
