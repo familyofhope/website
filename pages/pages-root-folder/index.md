@@ -9,9 +9,9 @@ header:
   image_fullwidth: pattern-header.png
 
 widget1:
-   title: "Mailing List"
-   url: /contact/
-   text: 'Stay connected with Dave Osborne'
+   title: "Vision"
+   url: /info/
+   text: 'Learn about Family of Hope'
 widget2:
    title: "Support"
    url: /support/
