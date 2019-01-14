@@ -2,6 +2,7 @@
 # FamilyOfHope site development:
 # 
 # bundle exec jekyll serve --config _config.yml,_config_dev.yml
+# markdown syntax reference: https://kramdown.gettalong.org/syntax.html
 # 
 # This config-file is only needed for development. Instead of changing the url
 # everytime you work locally on the project, you start both config-files, overwriting
