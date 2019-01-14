@@ -11,7 +11,7 @@ header:
 widget1:
    title: "Vision"
    url: /info/
-   text: 'Learn about Family of Hope'
+   text: 'The Family of Hope mission'
 widget2:
    title: "Support"
    url: /support/
@@ -37,7 +37,7 @@ widget3:
 #
 callforaction:
     url: /contact/
-    text: 'Stay updated or donate to Family of Hope'
+    text: 'Mailing List and Contact Information'
 
 #   style: alert
 

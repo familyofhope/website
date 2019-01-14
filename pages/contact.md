@@ -400,10 +400,14 @@ Join Dave Osborne's email list for mission updates.
 <script src="https://static.mailerlite.com/js/w/webforms.min.js?vaa4d608450783acdc64d5338ff94f6d5" type="text/javascript"></script>
 
  	
-
 # General Contact Information
 
 Have general questions/comments for Family of Hope or Dave Osborne?
+Are you interested in coming to spend some time on mission here in Kenya?
+<dosborne@familyofhope.org>
+
+# Mission
+
 Are you interested in coming to spend some time on mission here in Kenya?
 <dosborne@familyofhope.org>
 

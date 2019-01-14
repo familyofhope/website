@@ -28,51 +28,52 @@ please feel free to contact the following individuals (Listed in alphabetical
 order):
 
 Dave Blakeslee
-:   Salida Vineyard, Salida, Colorado
-:   Pastor
-:   dave.blakeslee@salidavineyard.org
+:	Salida Vineyard, Salida, Colorado
+:	Itinerate speaker, Former Pastor, Master Potter
+:	dave.blakeslee@salidavineyard.org
 
 Dave Carder
-:   First Evangelical Free Church, Fullerton, California
-:   Pastor overseeing counseling ministries and support groups
-:   dave.carder@evfreefullerton.com
+:	First Evangelical Free Church, Fullerton, California
+:	Pastor overseeing counseling ministries and support groups
+:	dave.carder@evfreefullerton.com
 
 John Coulombe
-:   First Evangelical Free Church, Fullerton, California
-:   Pastor to senior adults
-:   john.coulombe@evfreefullerton.com
+:	First Evangelical Free Church, Fullerton, California
+:	Pastor to senior adults
+:	john.coulombe@evfreefullerton.com
 
 Thomas Graham, Ph.D
-:   Center for Organizational and Ministry Development, Colorado Springs. Colorado
-:   Founder and President
-:   comd@mac.com
+:	Center for Organizational and Ministry Development, Colorado Springs, Colorado
+:	Founder and President
+:	comd@mac.com
 
 Earl Henslin, Psy.D
-:   Henslin and Associates Counseling Center, Brae, California
-:   Licensed Marriage and Family Therapist
-:   EHenslin@aol.com
+:	Henslin and Associates Counseling Center, Brea, California
+:	Licensed Marriage and Family Therapist
+:	drearlh@gmail.com
 
 Jon Hollenbeck
-:   ACA Products, Inc., Buena Vista, Colorado
-:   President
-:   jdhollenbeck@acaproducts.com
+:	ACA Products, Inc., Buena Vista, Colorado
+:	President
+:	jdhollenbeck@acaproducts.com
 
 David Jarvis, Ph.D
-:   Canada Counseling Center, Glendale, California
-:   Psychologist
-:   drdajarvis@yahoo.com
+:	Cañada Counseling Center, Glendale, California
+:	Psychologist
+:	drdajarvis@yahoo.com
 
 Randy and Clara Maranville
-:   San Antonio Vineyard, San Antonio, Texas
-:   Pastors
-:   randym@vineyardsa.org claram@vineyardusa.org
+:	San Antonio Vineyard, San Antonio, Texas
+:	Pastors
+:	claram@vineyardusa.org
+:	randym@vineyardsa.org 
 
 Daniel McQuoid, Psy. D
-:   McQuoid Psychological Services, Inc., Garden Grove, California
-:   daniewmcquoid@bizla.rr.com
+:	Psychologist
+:	McQuoid Psychological Services, Inc., Garden Grove, California
+:	Daniel@drmcquoid.com
 
 Nigel Morris
-:   Anahaeim Vineyard, Anaheim, California
-:   Pastor overseeing worship, compassion, prison, and men's ministry
-:   nmorris@vcfanaheim.com
-
+:	Anaheim Vineyard, Anaheim, California
+:	Pastor overseeing worship, compassion, prison, and men's ministry
+:	nmorris@vcfanaheim.com
