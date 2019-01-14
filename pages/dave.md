@@ -21,7 +21,10 @@ image:
   homepage:
   caption: "Caption?"
   url: "https://familyofhope.org/"
+
 ---
+
+![Dave Osborne](/images/staff/gallery-dave-osborne.jpg){:width="50%"}
 
 If you would like to receive references about Dave Osborne and Family of Hope
 please feel free to contact the following individuals (Listed in alphabetical

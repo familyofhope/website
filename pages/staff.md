@@ -11,10 +11,10 @@ permalink: "/staff/"
 gallery:
     - image_url: staff/gallery-dave-osborne.jpg
       caption: Dave Osborne.
-    - image_url: staff/gallery-jackline-bio.jpg
-      caption: This is the Jackline from when she was selling glue.
     - image_url: staff/gallery-jackline-2.jpg
       caption: Jackline is now the cook at Family of Hope.
+    - image_url: g1/gallery-dave-isaiah.jpg
+      caption: Dave and staff member Isaiah travelling by 'Boda-Boda'.
 
 ---
 
