@@ -10,6 +10,15 @@
 # Title of your website
 title: "Family of Hope"
 
+# <https://jekyllrb.com/docs/installation/macos/>
+# <install rbenv>
+#   rbenv install 2.6.3
+#   rbenv global 2.6.3
+# <install bundler locally>
+#   gem install --user-install bundler jekyll
+#   export PATH=$HOME/.gem/ruby/2.6.0/bin:$PATH
+#   gem env   # to check
+
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: "helping children on the streets of Kisumu, Kenya"
@@ -68,9 +77,11 @@ exclude:
     - .sass-cache
     - Gemfile
     - Gemfile.lock
+    - Gemfile.lock.o
     - LICENSE
     - README.md
     - INSTALL.md
+    - serve.sh
 
 
 # The language setting is used in /includes/header.html for html-settings
