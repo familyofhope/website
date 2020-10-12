@@ -2,3 +2,5 @@ _site/
 .sass-cache/
 .jekyll-cache/
 _config_tmp.yml
+vendor/
+.bundle/

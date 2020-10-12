@@ -8,18 +8,18 @@ layout: frontpage
 header:
   image_fullwidth: pattern-header.png
 
-widget1:
-   title: "Vision"
-   url: /info/
-   text: 'The Family of Hope mission'
-widget2:
-   title: "Support"
-   url: /support/
-   text: 'Donate to Family of Hope'
-widget3:
-   title: "Photos"
-   url: /photos/
-   text: 'Photo Gallery'
+#   widget1:
+#      title: "Vision"
+#      url: /info/
+#      text: 'The Family of Hope mission'
+#   widget2:
+#      title: "Support"
+#      url: /support/
+#      text: 'Donate to Family of Hope'
+#   widget3:
+#      title: "Photos"
+#      url: /photos/
+#      text: 'Photo Gallery'
 
 #   url: 'https://domain.de/must-be-absolut-url-like-this-one/'
 #   image: 'https://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
@@ -35,16 +35,18 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
-    url: /contact/
-    text: 'Mailing List and Contact Information'
+# callforaction:
+#     url: /contact/
+#     text: 'Mailing List and Contact Information'
 
 #   style: alert
 
 permalink: /index.html
 ---
 
-Welcome to Family of Hope, Dave Osborne's mission in Kisumu, Kenya.
+&nbsp;
+
+# Dave is moving to the Middle East ... stay tuned for more!
 
 <!-- div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">

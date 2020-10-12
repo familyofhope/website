@@ -9,9 +9,9 @@
 #
 #   Navigation to the right › side: right
 #
-- title: "Photos"
-  side: right
-  url: "/photos/"
+## - title: "Photos"
+##   side: right
+##   url: "/photos/"
 
 #   - title: Blog
 #     url: "/blog/"
@@ -20,27 +20,27 @@
 #     - title: "Blog Archive"
 #       url: "/blog/archive/"
 
-- title: "About Family of Hope"
-  url: '#'
-  side: right
-  dropdown:
-  - title: "The Ministry"
-    url: "/info/"
-  - title: "Kisumu, Kenya"
-    url: "/geo/"
-  - title: "Dave Osborne"
-    url: "/dosborne/"
-  - title: "Staff"
-    url: "/staff/"
+##  - title: "About Family of Hope"
+##    url: '#'
+##    side: right
+##    dropdown:
+##    - title: "The Ministry"
+##      url: "/info/"
+##    - title: "Kisumu, Kenya"
+##      url: "/geo/"
+##    - title: "Dave Osborne"
+##      url: "/dosborne/"
+##    - title: "Staff"
+##      url: "/staff/"
 
 #   - title: "Search"
 #     url: "/search/"
 #     side: right
 
-- title: "Support"
-  url: "/support/"
-  side: right
+##  - title: "Support"
+##    url: "/support/"
+##    side: right
 
-- title: "Contact"
-  url: "/contact/"
-  side: right
+##  - title: "Contact"
+##    url: "/contact/"
+##    side: right
